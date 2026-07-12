@@ -1,0 +1,17 @@
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\bin\Debug\net8.0-windows\SIM_Watchmen_UI.exe
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\bin\Debug\net8.0-windows\SIM_Watchmen_UI.deps.json
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\bin\Debug\net8.0-windows\SIM_Watchmen_UI.runtimeconfig.json
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\bin\Debug\net8.0-windows\SIM_Watchmen_UI.dll
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\bin\Debug\net8.0-windows\SIM_Watchmen_UI.pdb
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.Form1.resources
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.csproj.GenerateResource.cache
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.GeneratedMSBuildEditorConfig.editorconfig
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.AssemblyInfoInputs.cache
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.AssemblyInfo.cs
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.csproj.CoreCompileInputs.cache
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.dll
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\refint\SIM_Watchmen_UI.dll
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.pdb
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.genruntimeconfig.cache
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\ref\SIM_Watchmen_UI.dll
+S:\CAD_Office\Muhsin\NXOPEN\Simulation_Watchmen_V1\SIM_Watchmen_UI\SIM_Watchmen_UI\obj\Debug\net8.0-windows\SIM_Watchmen_UI.Properties.Resources.resources

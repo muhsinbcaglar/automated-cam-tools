@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIM_Watchmen_UI", "SIM_Watchmen_UI.csproj", "{1A471BBA-F5C3-438D-978A-405890B31FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A471BBA-F5C3-438D-978A-405890B31FDE}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{1A471BBA-F5C3-438D-978A-405890B31FDE}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{1A471BBA-F5C3-438D-978A-405890B31FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A471BBA-F5C3-438D-978A-405890B31FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10664476-FAF4-4506-AF74-2B2726D97D93}
+	EndGlobalSection
+EndGlobal
